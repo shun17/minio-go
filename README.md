@@ -30,8 +30,8 @@ package main
 import (
 	"log"
 
-	"github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/credentials"
+	"github.com/shun17/minio-go/v7"
+	"github.com/shun17/minio-go/v7/pkg/credentials"
 )
 
 func main() {
@@ -78,8 +78,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/credentials"
+	"github.com/shun17/minio-go/v7"
+	"github.com/shun17/minio-go/v7/pkg/credentials"
 )
 
 func main() {

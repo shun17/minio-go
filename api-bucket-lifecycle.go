@@ -26,8 +26,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/minio/minio-go/v7/pkg/lifecycle"
-	"github.com/minio/minio-go/v7/pkg/s3utils"
+	"github.com/shun17/minio-go/v7/pkg/lifecycle"
+	"github.com/shun17/minio-go/v7/pkg/s3utils"
 )
 
 // SetBucketLifecycle set the lifecycle on an existing bucket.
